@@ -1,6 +1,6 @@
 #!/bin/bash
 #My Daily use ubuntu tools
-#Author : Ardhendu Garai
+#Author : @rdh3n|)|_|
 
  
 cat  << EOF 
