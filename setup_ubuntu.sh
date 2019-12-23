@@ -67,7 +67,7 @@ sudo apt-get install gparted -y
 ## sudo apt-get install -y anydesk leafpad  gtkhash nomacs mypaint magnus onboard pyspread xfce4-terminal handbrake-gtk hexchat mpv  gnome-contacts  
 sudo apt-get install shellcheck -y
 sudo apt-get install folder-color -y
-apt-cache search nemo
+apt-cache install nemo -y
 
 #####    nautilus extension  #####
 sudo apt-get install nautilus-image-converter -y
