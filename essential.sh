@@ -18,3 +18,7 @@ sudo apt install oracle-java10-set-default
 sudo apt install oracle-java8-installer
 sudo apt install oracle-java8-set-default
 sudo apt-get upgrade
+
+sudo apt-get install python3-pip python-pip prtonvpn-cli grsync rsync top vnstat tcpdump ksysguard -y
+sudo apt-get install tickle nethogs iftop  glances top wondershaper testdisk photorec mtr vsftpd -y
+sudo apt-get install openvpn openssh-server  mysql-client mysql-server fileban2 clamav shred secure-delete wipe sswap sdmem -y
