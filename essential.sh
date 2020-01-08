@@ -8,5 +8,13 @@ sudo apt-get install unity-tweak-tool torbrowser-launcher synaptic  lsb chrome-g
 sudo add-apt-repository ppa:atareao/telegram -y
 sudo apt-get update 
 sudo apt-get install telegram -y
+sudo apt install build-essential gprolog 
 
+# If you want to install Java 10 and set it as default, use the following command:
+sudo apt install oracle-java10-installer
+sudo apt install oracle-java10-set-default
+
+#If you want to install Java 8 and set it as default, use the following command:
+sudo apt install oracle-java8-installer
+sudo apt install oracle-java8-set-default
 sudo apt-get upgrade
